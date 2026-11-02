@@ -1,0 +1,11 @@
+# Competition data and outputs (download from Kaggle)
+*.csv
+*.zip
+data/
+input/
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+catboost_info/
